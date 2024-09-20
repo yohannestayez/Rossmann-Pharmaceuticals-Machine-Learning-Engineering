@@ -1,4 +1,4 @@
-# Rossmann Pharmaceuticals sales forecast
+# Rossmann Pharmaceuticals 
 
 # Sales Forecasting Project
 
