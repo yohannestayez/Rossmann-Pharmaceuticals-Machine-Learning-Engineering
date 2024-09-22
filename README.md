@@ -1,5 +1,5 @@
-# Rossmann Pharmaceuticals sales forecast
-```
+# Rossmann Pharmaceuticals 
+
 # Sales Forecasting Project
 
 ## Overview
@@ -30,7 +30,7 @@ The dataset contains historical sales data, including:
 ## Methodologies
 1. **Data Preprocessing**: Cleaned and transformed the data for analysis, handling missing values and converting data types as necessary.
 2. **Exploratory Data Analysis (EDA)**: Conducted EDA to identify patterns, trends, and relationships in the data, visualizing findings through graphs and heatmaps.
-3. **Model Building**: Developed machine learning models to predict future sales based on historical trends and external factors.
+
 
 ## Key Findings
 - **Sales Trend by Day of the Week**: Sales peak on Mondays and Sundays, with a noticeable dip midweek.
@@ -58,5 +58,5 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
