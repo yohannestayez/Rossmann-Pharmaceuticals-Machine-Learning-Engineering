@@ -10,7 +10,7 @@ import os
 
 
 # Define the external path where you want to save the log file
-log_dir = "C:/Users/Toshiba/Documents/Kifiya/week_4/notebooks/"
+log_dir = "C:/Users/Administrator/Documents/kifiya/Week_4/notebooks"
 log_file = "exploratory_analysis.log"
 
 # Ensure the directory exists
