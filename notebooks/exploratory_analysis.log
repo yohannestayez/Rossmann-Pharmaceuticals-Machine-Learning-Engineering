@@ -1,26 +1,31 @@
-2024-09-22 13:24:37,516 - INFO - Datasets loaded successfully
-2024-09-22 13:24:38,006 - INFO - Datasets merged successfully
-2024-09-22 13:24:38,671 - INFO - Missing values handled in the dataset
-2024-09-22 13:24:38,932 - INFO - Outliers handled for Sales using z-scores
-2024-09-22 13:24:38,959 - INFO - Missing values handled in the test dataset
-2024-09-22 13:24:41,179 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:24:42,048 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:24:43,134 - INFO - Promo distribution in Training set visualized
-2024-09-22 13:24:43,216 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:24:43,288 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:24:43,439 - INFO - Promo distribution in Test set visualized
-2024-09-22 13:24:47,265 - INFO - Sales behavior before, during, and after holidays visualized
-2024-09-22 13:25:00,941 - INFO - Seasonal purchase behavior visualized
-2024-09-22 13:25:04,974 - INFO - Correlation between Sales and Customers: 0.8873674042024784
-2024-09-22 13:25:05,868 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:25:06,555 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:25:28,519 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:25:29,203 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2024-09-22 13:25:50,995 - INFO - Promo effects on sales and customer count visualized
-2024-09-22 13:26:09,024 - INFO - Promo effectiveness by StoreType visualized
-2024-09-22 13:26:26,792 - INFO - Sales trend by day of the week visualized
-2024-09-22 13:26:28,167 - INFO - Weekend sales comparison visualized
-2024-09-22 13:26:30,793 - INFO - Assortment type effect on sales visualized
-2024-09-22 13:26:34,711 - INFO - Competitor distance effect on sales visualized
-2024-09-22 13:27:12,197 - INFO - Sales trend with new and old competitors visualized
-2024-09-22 13:27:16,559 - INFO - Correlation heatmap visualized
+2024-09-23 12:43:20,164 - INFO - Datasets loaded successfully
+2024-09-23 12:43:20,394 - INFO - Datasets merged successfully
+2024-09-23 12:43:20,477 - INFO - Missing values handled in the dataset
+2024-09-23 12:43:20,601 - INFO - Outliers handled for Sales using z-scores
+2024-09-23 12:43:20,608 - INFO - Missing values handled in the test dataset
+2024-09-23 12:43:23,278 - INFO - Datasets loaded successfully
+2024-09-23 12:43:23,508 - INFO - Datasets merged successfully
+2024-09-23 12:43:23,610 - INFO - Missing values handled in the dataset
+2024-09-23 12:43:23,732 - INFO - Outliers handled for Sales using z-scores
+2024-09-23 12:43:23,755 - INFO - Missing values handled in the test dataset
+2024-09-23 12:43:24,550 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:25,226 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:25,686 - INFO - Promo distribution in Training set visualized
+2024-09-23 12:43:25,734 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:25,764 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:25,853 - INFO - Promo distribution in Test set visualized
+2024-09-23 12:43:28,202 - INFO - Sales behavior before, during, and after holidays visualized
+2024-09-23 12:43:36,428 - INFO - Seasonal purchase behavior visualized
+2024-09-23 12:43:39,049 - INFO - Correlation between Sales and Customers: 0.8873674042024808
+2024-09-23 12:43:39,792 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:40,422 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:57,770 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:43:58,359 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-23 12:44:13,146 - INFO - Promo effects on sales and customer count visualized
+2024-09-23 12:44:25,906 - INFO - Promo effectiveness by StoreType visualized
+2024-09-23 12:44:38,194 - INFO - Sales trend by day of the week visualized
+2024-09-23 12:44:38,624 - INFO - Weekend sales comparison visualized
+2024-09-23 12:44:40,147 - INFO - Assortment type effect on sales visualized
+2024-09-23 12:44:42,491 - INFO - Competitor distance effect on sales visualized
+2024-09-23 12:45:11,346 - INFO - Sales trend with new and old competitors visualized
+2024-09-23 12:45:13,756 - INFO - Correlation heatmap visualized
